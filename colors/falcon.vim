@@ -50,7 +50,7 @@ hi TabLineSel guifg=#afafb2 ctermfg=145 guibg=NONE ctermbg=NONE gui=NONE cterm=N
 hi Title guifg=#ffefbf ctermfg=229 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Visual guifg=#ffefbf ctermfg=229 guibg=#89898c ctermbg=245 gui=NONE cterm=NONE
 hi WildMenu guifg=#0b0b1a ctermfg=233 guibg=#ffbf00 ctermbg=214 gui=NONE cterm=NONE
-hi Comment guifg=#89898c ctermfg=245 guibg=NONE ctermbg=NONE gui=italic cterm=italic
+hi Comment guifg=#89898c ctermfg=245 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Constant guifg=#ff4000 ctermfg=202 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi String guifg=#afafb2 ctermfg=145 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi link Character String
